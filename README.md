@@ -7,9 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/yourusername?color=00d9ff&style=for-the-badge&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/yourusername?color=00d9ff&style=for-the-badge&logo=github&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=Shaidhms&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Shaidhms?color=00d9ff&style=for-the-badge&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Shaidhms?color=00d9ff&style=for-the-badge&logo=github&label=STARS" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ const developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shaidhms&repo=your-awesome-project&theme=tokyonight)](https://github.com/Shaidhms/headlines-to-hashtags-using-streamlit-flaskapi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shaidhms&repo=headlines-to-hashtags-using-streamlit-flaskapi=tokyonight)](https://github.com/Shaidhms/headlines-to-hashtags-using-streamlit-flaskapi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shaidhms&repo=another-cool-project&theme=tokyonight)](https://github.com/Shaidhms/another-cool-project)
 
 </div>
