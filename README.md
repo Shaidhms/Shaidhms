@@ -13,27 +13,29 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-```typescript
-const developer = {
-  name: "Muhibbuddin Shaid Hakkeem",
-  role: "AI Generalist",
-  location: "Chennai, India",
-  languages: ["Python"],
-  interests: ["AI/ML", "Web3", "Cloud Computing", "Open Source"],
-  currentFocus: "Building scalable applications with modern tech stack",
-  funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
+<div align="center">
 
-- 🔭 I'm currently working on **building SaaS products mostly MVP**
-- 🌱 I'm currently learning **Gen AI**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, Cloud Architecture**
-- 📫 How to reach me: **mail2shaid@gmail.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+| 👨‍💻 **Role** | 🌍 **Location** | 🐍 **Primary Tech** | 🎯 **Focus** |
+|---------------|-----------------|---------------------|--------------|
+| AI Generalist | Chennai, India | Python | AI/ML Solutions |
+
+</div>
+
+### 🔥 What Drives Me
+- 🧠 **Artificial Intelligence**: Crafting intelligent systems that think and learn
+- ⛓️ **Web3 & Blockchain**: Building the decentralized future
+- ☁️ **Cloud Computing**: Scaling solutions to reach millions
+- 🌟 **Open Source**: Contributing to the global developer community
+
+### 🎯 Current Mission
+> Building scalable applications powered by AI and modern tech stack
+
+### ⚡ Quick Facts
+💡 I believe Python can solve 99% of the world's problems  
+🤖 Currently exploring the intersection of AI and Web3  
+🚀 Always ready to dive into the next big tech revolution
 
 ---
 
