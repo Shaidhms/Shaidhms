@@ -65,8 +65,8 @@ const developer = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaidhms&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaidhms&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -98,7 +98,7 @@ const developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shaidhms&repo=your-awesome-project&theme=tokyonight)](https://github.com/Shaidhms/your-awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shaidhms&repo=your-awesome-project&theme=tokyonight)](https://github.com/Shaidhms/headlines-to-hashtags-using-streamlit-flaskapi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shaidhms&repo=another-cool-project&theme=tokyonight)](https://github.com/Shaidhms/another-cool-project)
 
 </div>
