@@ -28,7 +28,7 @@ const developer = {
 };
 ```
 
-- 🔭 I'm currently working on **SaaS Products mostly MVP**
+- 🔭 I'm currently working on **building SaaS products mostly MVP**
 - 🌱 I'm currently learning **Gen AI**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Cloud Architecture**
@@ -104,12 +104,15 @@ const developer = {
 </div>
 
 ---
+<div align="Left">
 
-## 🎵 Coding Playlist
+🎵 Latest Content & What I'm Into
 
-<div align="center">
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&redirect=true)
+<div align="left">
+
+📺 Recent YouTube Videos
+
+[![Video 1](https://img.shields.io/badge/N8N_Tutorials_AI_DUDE-FF0000?style=flat-square&logo=youtube)](https://youtube.com/watch?v=n_jJO7V0FnI&list=PLO-C1JDm1q3I9zKTZMAWwbDzTFX-VfLbR)
 
 </div>
 
