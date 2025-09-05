@@ -96,9 +96,13 @@
 
 ---
 
-### 🚀 Project 1 - AI Tool
-![Python](https://img.shields.io/badge/Python-blue) ![AI](https://img.shields.io/badge/AI-green)  
-Description of your awesome AI project  
+### 📰 From Headlines to Hashtags
+![Python](https://img.shields.io/badge/Python-blue) ![AI](https://img.shields.io/badge/AI-green) ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red?)
+![Flask](https://img.shields.io/badge/Flask-2.0+-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4.1-blue)
+
+From Headlines to Hashtags is an intelligent social media content generation platform that converts fresh news headlines into platform-optimized social posts. The application leverages OpenAI's latest GPT models to fetch, analyze, and transform news into engaging content for your social media strategy. 
+
 [🔗 View Code](https://github.com/yourusername/project1)
 
 ---
