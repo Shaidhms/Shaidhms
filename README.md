@@ -96,13 +96,10 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shaidhms&repo=headlines-to-hashtags-using-streamlit-flaskapi=tokyonight)](https://github.com/Shaidhms/headlines-to-hashtags-using-streamlit-flaskapi)
-
-</div>
+### 🚀 Project 1 - AI Tool
+![Python](https://img.shields.io/badge/Python-blue) ![AI](https://img.shields.io/badge/AI-green)  
+Description of your awesome AI project  
+[🔗 View Code](https://github.com/yourusername/project1)
 
 ---
 <div align="left">
