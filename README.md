@@ -103,7 +103,7 @@
 
 From Headlines to Hashtags is an intelligent social media content generation platform that converts fresh news headlines into platform-optimized social posts. The application leverages OpenAI's latest GPT models to fetch, analyze, and transform news into engaging content for your social media strategy. 
 
-[🔗 View Code](https://github.com/yourusername/project1)
+[🔗 View Code](https://github.com/Shaidhms/headlines-to-hashtags-using-streamlit-flaskapi.git)
 
 ---
 <div align="left">
