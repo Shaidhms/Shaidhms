@@ -23,18 +23,23 @@
 
 </div>
 
-### 🔥 What Drives Me
-- 🧠 **Artificial Intelligence**: Crafting intelligent systems that think and learn
-- ⛓️ **Web3 & Blockchain**: Building the decentralized future
-- ☁️ **Cloud Computing**: Scaling solutions to reach millions
+### 🔥 Where I Create Impact
+
+- 🤖 **AI Generalist & GenAI Strategist**: Exploring AI applications, automation, and strategy  
+- 🧭 **Test Management**: Leading teams, planning, and delivering quality outcomes  
+- ⚡ **Performance Testing**: Strategy & execution with LoadRunner, NeoLoad, JMeter  
+- ☁️ **Cloud & On-Prem Expertise**: Scalable, resilient systems across AWS, Azure, and datacenters  
+- 🔍 **Monitoring & Analysis**: Dynatrace, SiteScope for performance insights and bottleneck detection  
+- 🛠️ **Consulting & Strategy**: Senior-level guidance on performance engineering transformations
 - 🌟 **Open Source**: Contributing to the global developer community
+
 
 ### 🎯 Current Mission
 > Building scalable applications powered by AI and modern tech stack
 
 ### ⚡ Quick Facts
 💡 I believe Python can solve 99% of the world's problems  
-🤖 Currently exploring the intersection of AI and Web3  
+🤖 Exploring how AI intersects with my tech stack  
 🚀 Always ready to dive into the next big tech revolution
 
 ---
