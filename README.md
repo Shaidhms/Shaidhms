@@ -19,7 +19,7 @@
 
 | 👨‍💻 **Role** | 🌍 **Location** | 🐍 **Primary Tech** | 🎯 **Focus** |
 |---------------|-----------------|---------------------|--------------|
-| AI Generalist | Chennai, India | Python | AI/ML Solutions |
+| Gen AI Architect & Strategist | Chennai, India | Python | AI/ML Solutions |
 
 </div>
 
