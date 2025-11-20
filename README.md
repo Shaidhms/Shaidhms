@@ -19,13 +19,13 @@
 
 | 👨‍💻 **Role** | 🌍 **Location** | 🐍 **Primary Tech** | 🎯 **Focus** |
 |---------------|-----------------|---------------------|--------------|
-| Gen AI Architect & Strategist | Chennai, India | n8n workflows,Python,LangChain agents,RAG systems,voice agents | AI/ML Solutions |
+| Gen AI Architect & Strategist | Chennai, India | Performance testing, n8n workflows,Python,LangChain agents,RAG systems,voice agents,multi-agent systems, Flask API services | AI/ML Solutions |
 
 </div>
 
 ### 🔥 Where I Create Impact
 
-- 🤖 **AI Generalist & GenAI Strategist**: Exploring AI applications, automation, and strategy  
+- 🤖 **Gen AI Architect & Strategist**: Exploring AI applications, automation, and strategy  
 - 🧭 **Test Management**: Leading teams, planning, and delivering quality outcomes  
 - ⚡ **Performance Testing**: Strategy & execution with LoadRunner, NeoLoad, JMeter  
 - ☁️ **Cloud & On-Prem Expertise**: Scalable, resilient systems across AWS, Azure, and datacenters  
