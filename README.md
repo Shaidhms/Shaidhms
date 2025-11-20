@@ -19,7 +19,7 @@
 
 | 👨‍💻 **Role** | 🌍 **Location** | 🐍 **Primary Tech** | 🎯 **Focus** |
 |---------------|-----------------|---------------------|--------------|
-| Gen AI Architect & Strategist | Chennai, India | Python | AI/ML Solutions |
+| Gen AI Architect & Strategist | Chennai, India | n8n workflows,Python,LangChain agents,RAG systems,voice agents | AI/ML Solutions |
 
 </div>
 
