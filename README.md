@@ -160,9 +160,10 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=Shaidhms&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+![trophy](https://github-trophies.vercel.app/?username=Shaidhms&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
+
 
 ---
 
